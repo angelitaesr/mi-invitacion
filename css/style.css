@@ -6,17 +6,17 @@
    ========================================================== */
 @font-face {
   font-family: "PT Barnum";
-  src: url("../assets/fonts/pt-barnum.woff2") format("woff2"), url("../assets/fonts/pt-barnum.ttf") format("truetype");
+  src: url("../invitacion/assets/fonts/pt-barnum.woff2") format("woff2"), url("../assets/fonts/pt-barnum.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Tarif";
-  src: url("../assets/fonts/tarif.woff2") format("woff2"), url("../assets/fonts/tarif.ttf") format("truetype");
+  src: url("../invitacion/assets/fonts/tarif.woff2") format("woff2"), url("../assets/fonts/tarif.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Vintage Goods";
-  src: url("../assets/fonts/vintage-goods.woff2") format("woff2"), url("../assets/fonts/vintage-goods.ttf") format("truetype");
+  src: url("../invitacion/assets/fonts/vintage-goods.woff2") format("woff2"), url("../assets/fonts/vintage-goods.ttf") format("truetype");
   font-display: swap;
 }
 :root {
@@ -45,7 +45,7 @@
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 body {
   background-color: var(--beige-2);
-  background-image: url("../assets/img/fondo-estampado.webp");
+  background-image: url("../invitacion/assets/img/fondo-estampado.webp");
   background-size: 440px auto;
   color: var(--cafe);
   font-family: var(--texto);
@@ -86,14 +86,14 @@ img[data-decor].ok { display: block; }
 }
 .bloque.evento, .bloque.vestimenta, .bloque.confirmar {
   background-color: var(--beige);
-  background-image: url("../assets/img/fondoconestampado.webp");
+  background-image: url("../invitacion/assets/img/fondoconestampado.webp");
   background-size: 440px auto;
   background-position: center top;
   background-repeat: repeat-y;
 }
 .bloque.invitacion-frase, .bloque.video-sec, .bloque.cuenta, .bloque.cierre {
   background-color: var(--crema-2);
-  background-image: url("../assets/img/fondo-estampado.webp");
+  background-image: url("../invitacion/assets/img/fondo-estampado.webp");
   background-size: 440px auto;
   background-position: center top;
   background-repeat: repeat;
@@ -127,7 +127,7 @@ img[data-decor].ok { display: block; }
   right: -16px;
   width: 80px;
   height: 72px;
-  background: url("../assets/img/cuerda-esquina.webp") center / contain no-repeat;
+  background: url("../invitacion/assets/img/cuerda-esquina.webp") center / contain no-repeat;
   transform: scaleX(-1);
   pointer-events: none;
   z-index: 5;
@@ -226,7 +226,7 @@ img[data-decor].ok { display: block; }
   cursor: pointer;
   color: var(--cafe);
   background-color: var(--beige);
-  background-image: url("../assets/img/fondoconestampado.webp");
+  background-image: url("../invitacion/assets/img/fondoconestampado.webp");
   background-size: cover;
   background-position: center;
   transition: opacity .85s ease, visibility .85s ease;
@@ -337,7 +337,7 @@ body.entered .musica { opacity: 1; pointer-events: auto; }
   padding: calc(7rem + env(safe-area-inset-top, 0px)) 1.6rem 8.8rem;
   overflow: hidden;
   background-color: var(--beige);
-  background-image: url("../assets/img/fondoconestampado.webp");
+  background-image: url("../invitacion/assets/img/fondoconestampado.webp");
   background-size: cover;
   background-position: center top;
 }
