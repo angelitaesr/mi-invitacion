@@ -23,31 +23,31 @@ const EVENTO = {
   whatsapp: "526624055852",
 
   // ---- Multimedia ----
-  musica: "assets/audio/musica.mp3",   // ← PENDIENTE: pon tu canción con este nombre
-  video: "assets/video/video.mp4",
+  musica: "invitacion/assets/audio/musica.mp3",   // ← PENDIENTE: pon tu canción con este nombre
+  video: "invitacion/assets/video/video.mp4",
   videoVelocidad: 2.5,   // 1 = normal, 1.25 = un poco más rápido, 1.5 = rápido
   videoPoster: "",
 
   // ---- Imágenes decorativas (PNG/WEBP sin fondo) ----
   imagenes: {
-    sombrero: "assets/img/sombrero.webp",
-    bota: "assets/img/bota.webp",
-    ramoMargaritas: "assets/img/ramo-margaritas.webp",
-    ramito: "assets/img/ramito.webp",
-    ramo: "assets/img/ramo.webp",
-    estrella: "assets/img/estrella.webp",
-    herradura: "assets/img/herradura.webp",
-    cuerda: "assets/img/cuerda.webp",                  // divisor entre frases
-    craneo: "assets/img/craneo.webp",
-    madera: "assets/img/madera.webp",
-    flor: "assets/img/flor.webp",
-    piel: "assets/img/piel.webp",
+    sombrero: "invitacion/assets/img/sombrero.webp",
+    bota: "invitacion/assets/img/bota.webp",
+    ramoMargaritas: "invitacion/assets/img/ramo-margaritas.webp",
+    ramito: "invitacion/assets/img/ramito.webp",
+    ramo: "invitacion/assets/img/ramo.webp",
+    estrella: "invitacion/assets/img/estrella.webp",
+    herradura: "invitacion/assets/img/herradura.webp",
+    cuerda: "invitacion/assets/img/cuerda.webp",                  // divisor entre frases
+    craneo: "invitacion/assets/img/craneo.webp",
+    madera: "invitacion/assets/img/madera.webp",
+    flor: "invitacion/assets/img/flor.webp",
+    piel: "invitacion/assets/img/piel.webp",
     foto: "",
 
     // ---- NUEVAS (las usa estilos.css) ----
-    fondoPapel: "assets/img/fondo-estampado.webp",         // papel acuarela crema (base)
-    fondoConEstampado: "assets/img/fondoconestampado.webp", // estampado vaquero (se mezcla encima)
-    cuerdaEsquina: "assets/img/cuerda-esquina.webp"    // cuerda en esquinas de tarjetas
+    fondoPapel: "invitacion/assets/img/fondo-estampado.webp",         // papel acuarela crema (base)
+    fondoConEstampado: "invitacion/assets/img/fondoconestampado.webp", // estampado vaquero (se mezcla encima)
+    cuerdaEsquina: "invitacion/assets/img/cuerda-esquina.webp"    // cuerda en esquinas de tarjetas
   },
 
   // ---- Textos ----
