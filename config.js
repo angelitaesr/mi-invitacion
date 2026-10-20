@@ -58,7 +58,7 @@ const EVENTO = {
     portadaFrase: "Una meta cumplida, mil sueños por delante",
     invitacion1: "Después de desveladas, esfuerzo y muchas ganas de salir adelante, ¡por fin llegó el momento de celebrar!",
     invitacion2: "Así que saca las botas y el sombrero, que nos vamos a festejar al puro estilo del norte.",
-    vestimentaFrase: "Ponte el sombrero y las botas, que nos vamos a echar una buena bailada.",
+    vestimentaFrase: "Ponte el sombrero y las botas, y no olvides traer tus vicios.",
     cierre1: "Este logro también es de mis padres. Gracias por su amor, sus sacrificios y por ayudarme a llegar hasta aquí. Sin ustedes, nada de esto sería posible.",
     cierre2: "Gracias por acompañarme en esta etapa tan importante de mi vida.",
     cierreFinal: "¡Nos vemos pa' festejar como se debe!",
