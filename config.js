@@ -16,8 +16,8 @@ const EVENTO = {
   fechaISO: "2026-11-14T21:00:00-07:00",
 
   // ---- Lugar ----
-  lugar: "Lugar",                 // ← PENDIENTE: nombre del lugar
-  maps: "",                       // ← PENDIENTE: pega aquí el link de Google Maps
+  lugar: "LAS HECTÁREAS DE MI TESORO",                 // ← PENDIENTE: nombre del lugar
+  maps: "https://maps.app.goo.gl/vHvSx24e2nbi8rsLA",                       // ← PENDIENTE: pega aquí el link de Google Maps
 
   // ---- WhatsApp ----
   whatsapp: "526624055852",
