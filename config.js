@@ -25,7 +25,7 @@ const EVENTO = {
   // ---- Multimedia ----
   musica: "invitacion/assets/audio/musica.mp3",   // ← PENDIENTE: pon tu canción con este nombre
   video: "video/video.mp4",
-  videoVelocidad: 2.5,   // 1 = normal, 1.25 = un poco más rápido, 1.5 = rápido
+  videoVelocidad: 3.5,   // 1 = normal, 1.25 = un poco más rápido, 1.5 = rápido
   videoPoster: "",
 
   // ---- Imágenes decorativas (PNG/WEBP sin fondo) ----
